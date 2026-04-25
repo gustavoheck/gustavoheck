@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9cf00&height=120&section=header"/>
+
 # Prazer, Gustavo! 👋
 
 Sou aprenziz técnico dentro da empresa WEG, cursando aprendizagem em informática para internet especialmente focada na área de desenvolvimento web! Estou atualmente no terceiro de quatro semestres oferecidos pelo curso, hoje me encontro mais focado no estudo da área de backend, apesar de mergulhar em diversas tecnologias!
@@ -51,3 +53,5 @@ Sou aprenziz técnico dentro da empresa WEG, cursando aprendizagem em informáti
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavohecks&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9cf00&height=120&section=footer"/>
