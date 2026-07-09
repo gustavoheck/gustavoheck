@@ -42,8 +42,8 @@ Sou aprenziz técnico dentro da empresa WEG, cursando aprendizagem em informáti
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=gustavoheck&show_icons=true&theme=merko" alt="GitHub Stats" height="200" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoheck&size_weight=0.5&count_weight=0.5&theme=merko&layout=donut" alt="Top Langs" height="200" /></td>
+      <td><img src="https://github-stats-extended.vercel.app/api?username=gustavoheck&show_icons=true&theme=merko" alt="GitHub Stats" height="200" /></td>
+      <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gustavoheck&size_weight=0.5&count_weight=0.5&theme=merko&layout=donut" alt="Top Langs" height="200" /></td>
     </tr>
   </table>
 </div>
